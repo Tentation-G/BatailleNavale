@@ -1,0 +1,1 @@
+gcc .\code\main.c .\code\input\input.c .\code\game\game.c .\code\board\board.c -o prog.exe

@@ -1,0 +1,20 @@
+# Progression BattleChip - Groupe 33
+
+## Paliers Atteints
+
+- [x] **Palier 1** : Affichage et Bases
+- [~] **Palier 2** : Interactions
+- [ ] **Palier 3** : Placement des Navires
+- [ ] **Palier 4** : Configuration (Non atteint)
+- [ ] **Palier 5** : Deux Joueurs (Non atteint)
+
+## Bonus Implémentés
+
+- [ ] Interface colorée
+- [ ] Mode réseau
+
+## Répartition du Travail
+
+- **Flavien CAMPEAUX** : Palier 1 - UI miteuse - Grille - "Logique" de jeu
+- **Assia MAKHLOUFI**  : Palier 1 - Tites fonctions "internes" - "Logique" de jeu
+- **Abdellah BOUBKER** : Palier 2 - Recup input User
